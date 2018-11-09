@@ -1,11 +1,10 @@
 <div>
-    <h1 style="text-align: center;">Deep Learning with Keras @ PyConIL17</h1>
-    <img style="text-align: left" src="http://il.pycon.org/wwwpyconIL/themes/custom/eldan/images/logo_pyconil.png" width="13%" />
+    <h1 style="text-align: center;">Deep Learning with Keras @ ICSEE18</h1>
     <img style="text-align: left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRcgZCv9gaRFsZ-5O_oS1_VreH-DlXKYK41WzhhJDTrINncuACkQ  " width="50%" />
 <div>
 <br>
 
-# Authors: Yam Peleg, Valerio Maggio 
+# Authors: Yam Peleg
 
 
 
