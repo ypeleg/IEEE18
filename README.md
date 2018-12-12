@@ -12,7 +12,7 @@
 
 ```shell
 
-git clone https://github.com/ypeleg/Deep-Learning-Keras-Tensorflow-PyCon-Israel-2017
+git clone https://github.com/ypeleg/IEEE18
 ```
 
 ---
